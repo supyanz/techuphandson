@@ -1,0 +1,27 @@
+/*html{
+    background-color:blanchedalmond;
+}
+
+h1 {
+    color: #8287E3; 
+    font-family: "Caveat", cursive;
+    font-size: 50px; 
+    border: 2px grey solid; 
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 80px;
+}
+*/
+
+h1{
+    color: rgb(108, 28, 28);
+}
+
+.title{
+    background-color: wheat
+}
+
+#author{
+    color: rgba(20, 20, 97, 0.855)
+}
