@@ -19,7 +19,19 @@ h1{
 }
 
 .title{
-    background-color: wheat
+    background-color: wheat;
+    border: 2px grey solid;
+    border-radius: 10px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #author{
